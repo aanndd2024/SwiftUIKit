@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:CoreDataSample/CoreDataSample.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:MVVM-ProductDetails/MVVM-ProductDetails.xcodeproj">
    </FileRef>
 </Workspace>
